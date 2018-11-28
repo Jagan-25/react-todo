@@ -1,0 +1,65 @@
+.App {
+   font-family: "Times New Roman", Times, serif;
+    padding: 0;
+}
+.head{
+  padding: 10px 0px 0px 0px;
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 110px;
+  font-size: 16px;
+  background-color:#5E35B1;
+}
+
+body{
+  font-size: 16px;
+  background-color: #dadad9;
+}
+.listContent{
+  margin:0px 20px; 
+
+}
+table {
+    width: 100%;
+    margin-left: 20px;
+    padding-left: 50px;
+
+    }
+
+th {
+    height: 50px;
+    text-align: left;
+  }
+td{  
+  text-align:justify;
+  padding-bottom: 10px;
+
+  }
+
+tfoot{
+  align-content: right;
+}
+input{
+    width:50%;
+    height: 25px;
+    margin-bottom: 30px;
+}
+button{
+  background-color: bisque;
+}
+
+.login {
+  margin:100px auto;
+  width: 250px;
+  height: 280px;
+  border: 1px solid;
+  padding: 15px;
+}
+.login input {
+  width:75%;
+}
+.addButton{
+  background-color:#e7e7e7; 
+  color: black; 
+}
